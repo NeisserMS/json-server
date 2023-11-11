@@ -1,0 +1,66 @@
+{
+    "foodDetails": [
+      {
+        "id": 1,
+        "foodName": "Departamento cerca a UPAO",
+        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
+        "detallebanos": "N° BAÑOS: 2",
+        "detallehabitaciones": "N° HABITACIONES: 2",
+        "detallemascotas": "MASCOTAS: SI",
+        "detallecontacto": "CONTACTO: +51 937539285",
+        "foodPrice": 900,
+        "foodImg": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIxMTc3YTFkNi1iY2Q1LTRkOGUtYTMxMi01YTE3OWM5ZmU5ZWMvMTE3N2ExZDYtYmNkNS00ZDhlLWEzMTItNWExNzljOWZlOWVjX2M0MjZmNWRiLTBjNTYtNDY5OC05YzM2LWM5MmVlOGFhMmZkMi5qcGciLCJicmFuZCI6IlBST1BFUkFUSSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjQwLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+        "fechaCreacion": "2023-10-27T15:30:00Z"
+      },
+      {
+        "id": 2,
+        "foodName": "Minidepartamento cerca a UCV",
+        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
+        "detallebanos": "N° BAÑOS: 1",
+        "detallehabitaciones": "N° HABITACIONES: 1",
+        "detallemascotas": "MASCOTAS: NO",
+        "detallecontacto": "CONTACTO: +51 937539285",
+        "foodPrice": 4500000,
+        "foodImg": "https://ims.imgix.net/uploads/ims/project_image/image/81644/02_imagen-interior-apto.jpg",
+        "fechaCreacion": "2023-10-28T15:30:00Z"
+      },
+      {
+        "id": 3,
+        "foodName": "Casa cerca a UPN",
+        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
+        "detallebanos": "N° BAÑOS: 3",
+        "detallehabitaciones": "N° HABITACIONES: 4",
+        "detallemascotas": "MASCOTAS: SI",
+        "detallecontacto": "CONTACTO: +51 937539285",
+        "foodPrice": 1200300000,
+        "foodImg": "https://www.bienesonline.com/peru/photos/casa-en-venta-en-ate-lima-peru-14230013880.jpg",
+        "fechaCreacion": "2023-10-29T15:30:00Z"
+      },
+      {
+        "id": 4,
+        "foodName": "Casa cerca al mall",
+        "foodDetails": "cuarto, sala, baño  y cocina",
+        "detallebanos": "1",
+        "detallehabitaciones": "1",
+        "detallemascotas": "SI",
+        "detallecontacto": "92952761",
+        "foodPrice": 400,
+        "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+        "fechaCreacion": ""
+      }
+    ],
+    "login": [
+      {
+        "id": 1,
+        "usuario": "Pedro",
+        "contrasena": "123456",
+        "esArrendador": false
+      },
+      {
+        "id": 2,
+        "usuario": "Arrendador",
+        "contrasena": "123456",
+        "esArrendador": true
+      }
+    ]
+  }
