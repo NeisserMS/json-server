@@ -1,54 +1,138 @@
 {
-    "foodDetails": [
-      {
-        "id": 1,
-        "foodName": "Departamento cerca a UPAO",
-        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
-        "detallebanos": "N° BAÑOS: 2",
-        "detallehabitaciones": "N° HABITACIONES: 2",
-        "detallemascotas": "MASCOTAS: SI",
-        "detallecontacto": "CONTACTO: +51 937539285",
-        "foodPrice": 900,
-        "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2F82779773528036653990601010846246497849882014674593726336751226422769453113398.jpg_1699661329192?alt=media&token=21d9d672-e02d-4e1c-9d09-d4d6239dbf04",
-        "fechaCreacion": "2023-10-27T15:30:00Z"
-      },
-      {
-        "id": 2,
-        "foodName": "Minidepartamento cerca a UCV",
-        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
-        "detallebanos": "N° BAÑOS: 1",
-        "detallehabitaciones": "N° HABITACIONES: 1",
-        "detallemascotas": "MASCOTAS: NO",
-        "detallecontacto": "CONTACTO: +51 937539285",
-        "foodPrice": 4500000,
-        "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2F82779773528036653990601010846246497849882014674593726336751226422769453113398.jpg_1699661329192?alt=media&token=21d9d672-e02d-4e1c-9d09-d4d6239dbf04",
-        "fechaCreacion": "2023-10-28T15:30:00Z"
-      },
-      {
-        "id": 3,
-        "foodName": "Casa cerca a UPN",
-        "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
-        "detallebanos": "N° BAÑOS: 3",
-        "detallehabitaciones": "N° HABITACIONES: 4",
-        "detallemascotas": "MASCOTAS: SI",
-        "detallecontacto": "CONTACTO: +51 937539285",
-        "foodPrice": 1200300000,
-        "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2F82779773528036653990601010846246497849882014674593726336751226422769453113398.jpg_1699661329192?alt=media&token=21d9d672-e02d-4e1c-9d09-d4d6239dbf04",
-        "fechaCreacion": "2023-10-29T15:30:00Z"
-      }
-    ],
-    "login": [
-      {
-        "id": 1,
-        "usuario": "Pedro",
-        "contrasena": "123456",
-        "esArrendador": false
-      },
-      {
-        "id": 2,
-        "usuario": "Arrendador",
-        "contrasena": "123456",
-        "esArrendador": true
-      }
-    ]
-  }
+  "foodDetails": [
+    {
+      "id": 1,
+      "foodName": "Departamento cerca a UPAO",
+      "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
+      "detallebanos": "2",
+      "detallehabitaciones": "2",
+      "detallemascotas": " SI",
+      "detallecontacto": " +51 937539285",
+      "foodPrice": 900,
+      "foodImg": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIxMTc3YTFkNi1iY2Q1LTRkOGUtYTMxMi01YTE3OWM5ZmU5ZWMvMTE3N2ExZDYtYmNkNS00ZDhlLWEzMTItNWExNzljOWZlOWVjX2M0MjZmNWRiLTBjNTYtNDY5OC05YzM2LWM5MmVlOGFhMmZkMi5qcGciLCJicmFuZCI6IlBST1BFUkFUSSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjQwLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    },
+    {
+      "id": 2,
+      "foodName": "Casa cerca al mall",
+      "foodDetails": "cuarto, sala, baño  y cocina",
+      "detallebanos": "1",
+      "detallehabitaciones": "1",
+      "detallemascotas": "SI",
+      "detallecontacto": "92952761",
+      "foodPrice": 400,
+      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    },
+    {
+      "id": 3,
+      "foodName": "TEST",
+      "foodDetails": "cuarto, sala, baño  y cocina",
+      "detallebanos": "1",
+      "detallehabitaciones": "1",
+      "detallemascotas": "SI",
+      "detallecontacto": "92952761",
+      "foodPrice": 400,
+      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    },
+    {
+      "id": 4,
+      "foodName": "Plaza",
+      "foodDetails": "cuarto, sala, baño  y cocina",
+      "detallebanos": "1",
+      "detallehabitaciones": "1",
+      "detallemascotas": "SI",
+      "detallecontacto": "92952761",
+      "foodPrice": 400,
+      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    },
+    {
+      "id": 5,
+      "foodName": "OMG",
+      "foodDetails": "cuarto, sala, baño  y cocina",
+      "detallebanos": "1",
+      "detallehabitaciones": "1",
+      "detallemascotas": "SI",
+      "detallecontacto": "92952761",
+      "foodPrice": 400,
+      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    },
+    {
+      "id": 6,
+      "foodName": "Puede ser",
+      "foodDetails": "cuarto, sala, baño  y cocina",
+      "detallebanos": "1",
+      "detallehabitaciones": "1",
+      "detallemascotas": "SI",
+      "detallecontacto": "92952761",
+      "foodPrice": 400,
+      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
+      "fechaCreacion": "2023-10-27T15:30:00Z"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "usuario": "Pedro",
+      "contrasena": "123456",
+      "esArrendador": false,
+      "esEstudiante": true
+    },
+    {
+      "id": 2,
+      "usuario": "Arrendador",
+      "contrasena": "123456",
+      "esArrendador": true,
+      "esEstudiante": false
+    }
+  ],
+  "romies": [
+    {
+      "id": 1,
+      "nombre": "Luis Alberto Mendoza Gonzales",
+      "edad": 19,
+      "sexo": "Hombre",
+      "universidad": "Universidad Nacional de Trujillo",
+      "carrera": "Ingeniería de Sistemas",
+      "contacto": "937539285",
+      "img": "https://previews.123rf.com/images/djoronimo/djoronimo1609/djoronimo160900107/63826380-estudiante-universitario-pensativo-est%C3%A1-aprendiendo-en-la-biblioteca.jpg",
+      "fechaCreacion": "2023-10-20T15:30:00Z"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Mendoza Gonzales",
+      "edad": 20,
+      "sexo": "Hombre",
+      "universidad": "Universidad Nacional de Trujillo",
+      "carrera": "Ingeniería Industrial",
+      "contacto": "937539285",
+      "img": "https://previews.123rf.com/images/arekmalang/arekmalang1208/arekmalang120800023/14936513-una-foto-de-un-estudiante-universitario-hisp%C3%A1nico-estudiar-en-el-campus.jpg",
+      "fechaCreacion": "2023-10-21T15:30:00Z"
+    },
+    {
+      "id": 3,
+      "nombre": "Alejandra Medina Soto",
+      "edad": 22,
+      "sexo": "Mujer",
+      "universidad": "Universidad Cesar Vallejo",
+      "carrera": "Ingeniería de Sistemas",
+      "contacto": "937539285",
+      "img": "https://icorp.com.mx/wp-content/uploads/2020/04/Beneficios-de-incluir-a-estudiantes-en-tu-empresa-copia.webp",
+      "fechaCreacion": "2023-10-22T15:30:00Z"
+    },
+    {
+      "id": 4,
+      "nombre": "Darly Bryan Medina Alcaide",
+      "edad": 22,
+      "sexo": "Hombre",
+      "universidad": "Universidad Privada Antenor Orrego",
+      "carrera": "Educación Inicial",
+      "contacto": "93365412",
+      "img": "https://thumbs.dreamstime.com/z/estudiante-universitario-sonriente-en-sala-de-clase-de-la-universidad-65967670.jpg",
+      "fechaCreacion": "2023-10-23T15:30:00Z"
+    }
+  ]
+}
