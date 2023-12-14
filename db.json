@@ -2,91 +2,65 @@
   "foodDetails": [
     {
       "id": 1,
-      "foodName": "Departamento cerca a UPAO",
-      "foodDetails": "Departamento ubicado en Av. Prol. Cesar Vallejo #234.",
-      "detallebanos": "2",
-      "detallehabitaciones": "2",
-      "detallemascotas": " SI",
-      "detallecontacto": " +51 937539285",
-      "foodPrice": 900,
-      "foodImg": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIxMTc3YTFkNi1iY2Q1LTRkOGUtYTMxMi01YTE3OWM5ZmU5ZWMvMTE3N2ExZDYtYmNkNS00ZDhlLWEzMTItNWExNzljOWZlOWVjX2M0MjZmNWRiLTBjNTYtNDY5OC05YzM2LWM5MmVlOGFhMmZkMi5qcGciLCJicmFuZCI6IlBST1BFUkFUSSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjQwLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
+      "titulo": "Casa cerca a UPN",
+      "descripcion": "en toda la esquina, es muy amplia",
+      "num_banios": 1,
+      "num_habitaciones": 3,
+      "mascotas": "SI",
+      "detallecontacto": 956874123,
+      "precio": 1001,
+      "imagenreferencial": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1702174173107?alt=media&token=9fca7ce6-bd17-4462-9488-c76ba3c50b42",
+      "fechaCreacion": "2023-12-10T02:10:06.872Z",
+      "disponible": "true",
+      "valoracion": 0,
+      "status": 1
     },
     {
       "id": 2,
-      "foodName": "Casa cerca al mall",
-      "foodDetails": "cuarto, sala, baño  y cocina",
-      "detallebanos": "1",
-      "detallehabitaciones": "1",
-      "detallemascotas": "SI",
-      "detallecontacto": "92952761",
-      "foodPrice": 400,
-      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
-    },
-    {
-      "id": 3,
-      "foodName": "TEST",
-      "foodDetails": "cuarto, sala, baño  y cocina",
-      "detallebanos": "1",
-      "detallehabitaciones": "1",
-      "detallemascotas": "SI",
-      "detallecontacto": "92952761",
-      "foodPrice": 400,
-      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
-    },
-    {
-      "id": 4,
-      "foodName": "Plaza",
-      "foodDetails": "cuarto, sala, baño  y cocina",
-      "detallebanos": "1",
-      "detallehabitaciones": "1",
-      "detallemascotas": "SI",
-      "detallecontacto": "92952761",
-      "foodPrice": 400,
-      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
-    },
-    {
-      "id": 5,
-      "foodName": "OMG",
-      "foodDetails": "cuarto, sala, baño  y cocina",
-      "detallebanos": "1",
-      "detallehabitaciones": "1",
-      "detallemascotas": "SI",
-      "detallecontacto": "92952761",
-      "foodPrice": 400,
-      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
-    },
-    {
-      "id": 6,
-      "foodName": "Puede ser",
-      "foodDetails": "cuarto, sala, baño  y cocina",
-      "detallebanos": "1",
-      "detallehabitaciones": "1",
-      "detallemascotas": "SI",
-      "detallecontacto": "92952761",
-      "foodPrice": 400,
-      "foodImg": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1699583266736?alt=media&token=916ec838-1a09-4f4b-906e-faf82cae58c5",
-      "fechaCreacion": "2023-10-27T15:30:00Z"
+      "titulo": "Habitación para señorita cerca a la UCV",
+      "descripcion": "a 2 cuadras de la universidad",
+      "num_banios": 1,
+      "num_habitaciones": 2,
+      "mascotas": "SI",
+      "detallecontacto": 92568745,
+      "precio": 500,
+      "imagenreferencial": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2F333760081.jpg_1702235073742?alt=media&token=272dfd46-77e3-470e-98f9-e655f4846dc5",
+      "fechaCreacion": "2023-12-10T19:04:44.943Z",
+      "disponible": "false",
+      "valoracion": 0,
+      "status": 1
     }
   ],
   "login": [
     {
-      "id": 1,
-      "usuario": "Pedro",
-      "contrasena": "123456",
-      "esArrendador": false,
-      "esEstudiante": true
+      "usuario": "neisser261995@gmail.com",
+      "contrasena": "Tester123.",
+      "nombres": "Neisser Arilson",
+      "apellidos": "Moreno Sanchez",
+      "celular": 929552761,
+      "esArrendador": true,
+      "esEstudiante": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "usuario": "Arrendador",
+      "usuario": "soto@gmail.com",
       "contrasena": "123456",
-      "esArrendador": true,
-      "esEstudiante": false
+      "nombres": "Juan José",
+      "apellidos": "Soto Perez",
+      "celular": 123654789,
+      "esArrendador": false,
+      "esEstudiante": true,
+      "id": 2
+    },
+    {
+      "usuario": "soto1@gmail.com",
+      "contrasena": "123456",
+      "nombres": "Soto1",
+      "apellidos": "test",
+      "celular": 123654,
+      "esArrendador": false,
+      "esEstudiante": true,
+      "id": 3
     }
   ],
   "romies": [
@@ -133,6 +107,32 @@
       "contacto": "93365412",
       "img": "https://thumbs.dreamstime.com/z/estudiante-universitario-sonriente-en-sala-de-clase-de-la-universidad-65967670.jpg",
       "fechaCreacion": "2023-10-23T15:30:00Z"
+    }
+  ],
+  "selecciones": [
+    {
+      "usuarioId": 2,
+      "habitacionId": 1,
+      "id": 1
+    },
+    {
+      "usuarioId": 3,
+      "habitacionId": 1,
+      "id": 2
+    }
+  ],
+  "valoraciones": [
+    {
+      "id": "0eb5ba7f-d451-4805-9483-b42542cb9a69",
+      "usuarioId": 2,
+      "habitacionId": 1,
+      "valoracion": 3
+    },
+    {
+      "id": "2c50d84c-5dc7-47d1-ab35-b7ead3748337",
+      "usuarioId": 3,
+      "habitacionId": 1,
+      "valoracion": 1
     }
   ]
 }
