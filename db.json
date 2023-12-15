@@ -1,68 +1,6 @@
 {
-  "foodDetails": [
-    {
-      "id": 1,
-      "titulo": "Casa cerca a UPN",
-      "descripcion": "en toda la esquina, es muy amplia",
-      "num_banios": 1,
-      "num_habitaciones": 3,
-      "mascotas": "SI",
-      "detallecontacto": 956874123,
-      "precio": 1001,
-      "imagenreferencial": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2FDisenos-de-Casas-Modernas-Interiores-y-Exteriores.jpeg_1702174173107?alt=media&token=9fca7ce6-bd17-4462-9488-c76ba3c50b42",
-      "fechaCreacion": "2023-12-10T02:10:06.872Z",
-      "disponible": "true",
-      "valoracion": 0,
-      "status": 1
-    },
-    {
-      "id": 2,
-      "titulo": "Habitación para señorita cerca a la UCV",
-      "descripcion": "a 2 cuadras de la universidad",
-      "num_banios": 1,
-      "num_habitaciones": 2,
-      "mascotas": "SI",
-      "detallecontacto": 92568745,
-      "precio": 500,
-      "imagenreferencial": "https://firebasestorage.googleapis.com/v0/b/cmac-92e96.appspot.com/o/ofertas%2F333760081.jpg_1702235073742?alt=media&token=272dfd46-77e3-470e-98f9-e655f4846dc5",
-      "fechaCreacion": "2023-12-10T19:04:44.943Z",
-      "disponible": "false",
-      "valoracion": 0,
-      "status": 1
-    }
-  ],
-  "login": [
-    {
-      "usuario": "neisser261995@gmail.com",
-      "contrasena": "Tester123.",
-      "nombres": "Neisser Arilson",
-      "apellidos": "Moreno Sanchez",
-      "celular": 929552761,
-      "esArrendador": true,
-      "esEstudiante": false,
-      "id": 1
-    },
-    {
-      "usuario": "soto@gmail.com",
-      "contrasena": "123456",
-      "nombres": "Juan José",
-      "apellidos": "Soto Perez",
-      "celular": 123654789,
-      "esArrendador": false,
-      "esEstudiante": true,
-      "id": 2
-    },
-    {
-      "usuario": "soto1@gmail.com",
-      "contrasena": "123456",
-      "nombres": "Soto1",
-      "apellidos": "test",
-      "celular": 123654,
-      "esArrendador": false,
-      "esEstudiante": true,
-      "id": 3
-    }
-  ],
+  "foodDetails": [],
+  "login": [],
   "romies": [
     {
       "id": 1,
@@ -109,30 +47,6 @@
       "fechaCreacion": "2023-10-23T15:30:00Z"
     }
   ],
-  "selecciones": [
-    {
-      "usuarioId": 2,
-      "habitacionId": 1,
-      "id": 1
-    },
-    {
-      "usuarioId": 3,
-      "habitacionId": 1,
-      "id": 2
-    }
-  ],
-  "valoraciones": [
-    {
-      "id": "0eb5ba7f-d451-4805-9483-b42542cb9a69",
-      "usuarioId": 2,
-      "habitacionId": 1,
-      "valoracion": 3
-    },
-    {
-      "id": "2c50d84c-5dc7-47d1-ab35-b7ead3748337",
-      "usuarioId": 3,
-      "habitacionId": 1,
-      "valoracion": 1
-    }
-  ]
+  "selecciones": [],
+  "valoraciones": []
 }
